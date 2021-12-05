@@ -27,7 +27,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♉ Github : github.com/Zaan322
 ♊ Instagram : instagram.com/zanganzz_
 ♋ Tiktok : tiktok.com/@zan.ae
-♏ WhatsApp : bit.ly/zeeone_ofc
+♏ WhatsApp : wa.me/6285340827717
 `}
 
 exports.infobot = infobot
